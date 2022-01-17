@@ -1,7 +1,7 @@
 # Hotel website using Reactjs
 
-![Home page](screenshots/home_page.png) <br />
-![Home login](screenshots/home_login.png)
+![Home page](screenshots/home_page.png) /
+![Home login](screenshots/home_login.png) /
 ![about us](screenshots/about_us.png)
 ![menu page](screenshots/menu_page.png)
 ![menu comments](screenshots/menu_comments.png)
